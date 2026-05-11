@@ -1,5 +1,11 @@
 # 💫 About Me:
-Full Stack Software Engineer focused on building scalable SaaS platforms, MIS systems, and real-time applications using Laravel, Nuxt 3, Vue.js, React, and MySQL.<br><br>Experienced in logistics, healthcare, inventory, and operations management systems with expertise in APIs, dashboards, Google Maps integrations, Firebase, and workflow automation.<br><br>Currently building production-grade applications and exploring scalable system architecture, performance optimization, and modern full-stack development.
+Full Stack Software Engineer focused on building scalable SaaS platforms, MIS systems, and real-time applications using Laravel, Nuxt 3, Vue.js, React, TypeScript, and MySQL.
+
+Experienced in developing logistics, healthcare, inventory, retail, and operations management systems with expertise in REST APIs, dashboards, Google Maps integrations, Firebase, payment gateways, RBAC systems, and workflow automation.
+
+Built and delivered multiple production-grade applications for US-based and international clients, handling the complete software lifecycle from architecture and database design to deployment and optimization.
+
+Currently exploring scalable system architecture, performance optimization, modern frontend ecosystems, and high-performance full-stack application development.
 
 
 ## 🌐 Socials:
